@@ -1,0 +1,15 @@
+C:\git\c#\example001_Helloworld\bin\Debug\net6.0\example001_Helloworld.exe
+C:\git\c#\example001_Helloworld\bin\Debug\net6.0\example001_Helloworld.deps.json
+C:\git\c#\example001_Helloworld\bin\Debug\net6.0\example001_Helloworld.runtimeconfig.json
+C:\git\c#\example001_Helloworld\bin\Debug\net6.0\example001_Helloworld.dll
+C:\git\c#\example001_Helloworld\bin\Debug\net6.0\example001_Helloworld.pdb
+C:\git\c#\example001_Helloworld\obj\Debug\net6.0\example001_Helloworld.csproj.AssemblyReference.cache
+C:\git\c#\example001_Helloworld\obj\Debug\net6.0\example001_Helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\c#\example001_Helloworld\obj\Debug\net6.0\example001_Helloworld.AssemblyInfoInputs.cache
+C:\git\c#\example001_Helloworld\obj\Debug\net6.0\example001_Helloworld.AssemblyInfo.cs
+C:\git\c#\example001_Helloworld\obj\Debug\net6.0\example001_Helloworld.csproj.CoreCompileInputs.cache
+C:\git\c#\example001_Helloworld\obj\Debug\net6.0\example001_Helloworld.dll
+C:\git\c#\example001_Helloworld\obj\Debug\net6.0\refint\example001_Helloworld.dll
+C:\git\c#\example001_Helloworld\obj\Debug\net6.0\example001_Helloworld.pdb
+C:\git\c#\example001_Helloworld\obj\Debug\net6.0\example001_Helloworld.genruntimeconfig.cache
+C:\git\c#\example001_Helloworld\obj\Debug\net6.0\ref\example001_Helloworld.dll
